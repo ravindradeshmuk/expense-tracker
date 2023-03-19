@@ -1,0 +1,55 @@
+.expenses {
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.842);
+
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+/* .backcolor{
+    background-color: black;
+    
+}
+/* .container{
+ background-color: rgb(89, 81, 81);
+    width: 90vw;
+    height: 20vh;
+  text-align: center;
+    border: 2px solid black;
+    border-radius: 1rem;
+    margin: 1rem;
+} */
+/* .midle{
+    
+ width: 10vw;
+    padding: 0.5rem;
+   } */
+   /* .style{
+    background-color:black;
+    height: 15vh;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0.5rem;
+    color: white;
+    text-align: center;
+   } */
+/* .bottom{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+    color: white;
+    padding: 2rem;
+}
+.btn{
+    width: 7rem;
+    background-color:rgb(74, 74, 131);
+    border: 1px solid white;
+    border-radius: 10px;
+    padding:  4px  ;
+    text-align: center;
+} */ 
